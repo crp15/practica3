@@ -59,7 +59,8 @@ form{
 form div{
     margin-top: 1em;
 }
-
+/*A continuacion damos valores a las pseudoclases para indicar el
+color del vinculo activo y visitado*/
 a:link{
     color: black;
 }
